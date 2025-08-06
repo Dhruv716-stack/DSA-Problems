@@ -16,7 +16,7 @@ public:
         {
             if(temp->val >p->val && temp->val >q->val) temp=temp->left;
             else if(temp->val< p->val && temp->val< q->val) temp=temp->right;
-            else return temp;
+            else break;
         }
         return temp;
     }
