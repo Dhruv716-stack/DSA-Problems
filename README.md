@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Depth-First Search
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1036-rotting-oranges) |
+## Backtracking
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
