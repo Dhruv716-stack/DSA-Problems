@@ -15,8 +15,20 @@ public:
         int m=triangle.size();
         int n=triangle[m-1].size();
         vector<vector<int>> dp(m,vector<int>(n,INT_MAX));
-        int ans=solve(triangle,0,0,dp);
-        return ans;
+        for(int j=0;j<n;j++)
+        {
+            dp[m-1][j]=triangle[m-1][j];
+        }
+        for(int i=m-2;i>=0;i--)
+        {
+            for(int j=i;j>=0;j--)
+            {
+                int d=triangle[i][j]+dp[i+1][j];
+                int dg=triangle[i][j]+dp[i+1][j+1];
+                dp[i][j]=min(d,dg);
+            }
+        }
+        return dp[0][0];
 
     }
 };
