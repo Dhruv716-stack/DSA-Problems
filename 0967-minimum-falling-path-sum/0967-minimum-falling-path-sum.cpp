@@ -1,40 +1,34 @@
 class Solution {
 public:
-int solve(vector<vector<int>> &mat, int i, int j, vector<vector<int>>& dp) {
-    int n = mat.size();
+    int minFallingPathSum(vector<vector<int>>& matrix) {
+        int n=matrix.size();
+        vector<vector<int>> dp(n,vector<int>(n,INT_MAX));
+        for(int j=0;j<n;j++)
+        {
+            dp[n-1][j]=matrix[n-1][j];
+        }
+        for(int i=n-2;i>=0;i--)
+        {
+            for(int j=n-1;j>=0;j--)
+            {
+                int d=dp[i+1][j];
+                int dl=INT_MAX,dr=INT_MAX;
+                if(j>0) dl=dp[i+1][j-1];
+                if(j<n-1) dr=dp[i+1][j+1];
+                int min_next=min({d,dr,dl});
+                if(min_next==INT_MAX) dp[i][j]=min_next;
+                else
+                {
+                    dp[i][j]=min_next+matrix[i][j];
+                }
+            }
+        }
+        int ans=INT_MAX;
+        for(int i=0;i<n;i++)
+        {
+            ans=min(ans,dp[0][i]);
 
-    // boundary check
-    if (j < 0 || j >= n) return INT_MAX;
-
-    // base case
-    if (i == n - 1) return mat[i][j];
-
-    // memoization check
-    if (dp[i][j] != INT_MAX) return dp[i][j];
-
-    // recursive calls (with overflow safety)
-    int down = solve(mat, i + 1, j, dp);
-    int downLeft = solve(mat, i + 1, j - 1, dp);
-    int downRight = solve(mat, i + 1, j + 1, dp);
-
-    int minNext = min({down, downLeft, downRight});
-
-    if (minNext == INT_MAX)  // all invalid paths
-        return dp[i][j] = INT_MAX;
-
-    // safe addition — no overflow
-    return dp[i][j] = mat[i][j] + minNext;
-}
-
-int minFallingPathSum(vector<vector<int>>& matrix) {
-    int n = matrix.size();
-    vector<vector<int>> dp(n, vector<int>(n, INT_MAX));
-    int ans = INT_MAX;
-
-    for (int j = 0; j < n; j++) {
-        ans = min(ans, solve(matrix, 0, j, dp));
+        }
+        return ans;
     }
-    return ans;
-}
-
 };
