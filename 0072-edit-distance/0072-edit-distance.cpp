@@ -19,26 +19,29 @@ public:
         string s2=word2;
         int n=s1.size();
         int m=s2.size();
-        vector<vector<int>> dp(n+1,vector<int>(m+1,INT_MAX));
+        //vector<vector<int>> dp(n+1,vector<int>(m+1,INT_MAX));
+        vector<int> prev(m+1,0),curr(m+1,0);
 
-        for(int i=0;i<=n;i++) dp[i][0]=i;
-        for(int j=1;j<=m;j++) dp[0][j]=j;
+        //prev[0]=0;
+        for(int j=1;j<=m;j++) prev[j]=j;
 
         for(int i=1;i<=n;i++)
         {
+            curr[0]=i;
             for(int j=1;j<=m;j++)
             {
-                if(s1[i-1]==s2[j-1]) dp[i][j]=dp[i-1][j-1];
+                if(s1[i-1]==s2[j-1]) curr[j]=prev[j-1];
                 else
                 {
-                    int del=1+dp[i-1][j];
-                    int ins=1+dp[i][j-1];
-                    int re=1+dp[i-1][j-1];
-                    dp[i][j]=min({del,ins,re});
+                    int del=1+prev[j];
+                    int ins=1+curr[j-1];
+                    int re=1+prev[j-1];
+                    curr[j]=min({del,ins,re});
                 }
             }
+            prev=curr;
         }
-        return dp[n][m];
+        return prev[m];
         
     }
 };
