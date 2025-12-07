@@ -2,7 +2,6 @@ class Solution {
 public:
     vector<bool> prime(int n)
     {
-        vector<int> sum(n,0);
         vector<bool> is_prime(n+1,1);
         if(n>=0) is_prime[0]=0;
         if(n>=1) is_prime[1]=0;
@@ -35,7 +34,6 @@ public:
     int largestPrime(int n) {
         vector<bool> is_prime=prime(n);
         vector<long long> prime_sum=p_sum(is_prime);
-        //if(is_prime[n]==1) return n;
         int n1=prime_sum.size();
         long long ans=0;
         for(int i=0;i<n1;i++)
