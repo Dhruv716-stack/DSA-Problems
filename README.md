@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1036-rotting-oranges) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1170-shortest-common-supersequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1170-shortest-common-supersequence) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0055-jump-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Union Find
 |  |
 | ------- |
