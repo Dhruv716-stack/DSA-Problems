@@ -20,6 +20,7 @@ public:
         int n=prices.size();
         vector<vector<int>> dp(n+2,vector<int>(2,0));
         dp[n][0]=dp[n][1]=0;
+        vector<int> f2(2,0),f1(2,0),curr(2,0);
         int profit=0;
         for(int ind=n-1;ind>=0;ind--)
         {
@@ -27,15 +28,17 @@ public:
             {
                 if(buy==1)
                 {
-                    profit=max((-prices[ind]+dp[ind+1][0]),dp[ind+1][1]);
+                    profit=max((-prices[ind]+f1[0]),f1[1]);
                 }
                 else
                 {
-                    profit=max((prices[ind]+dp[ind+2][1]),dp[ind+1][0]);
+                    profit=max((prices[ind]+f2[1]),f1[0]);
                 }
-                dp[ind][buy]=profit;
+                curr[buy]=profit;
             }
+            f2=f1;
+            f1=curr;
         }
-        return dp[0][1];
+        return f1[1];
     }
 };
