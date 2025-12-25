@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
+| [0132-palindrome-partitioning-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
