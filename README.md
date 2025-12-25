@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1170-shortest-common-supersequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1170-shortest-common-supersequence) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Depth-First Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -308,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+## Recursion
+|  |
+| ------- |
+| [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
 <!---LeetCode Topics End-->
