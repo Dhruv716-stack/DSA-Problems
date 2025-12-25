@@ -31,6 +31,7 @@ public:
     int minCut(string s) {
         int n=s.size();
         vector<int> dp(n+1,0);
+        vector<int> front(n+1,0),curr(n+1,0);
         for(int i=n-1;i>=0;i--)
         {
             int min_cost=INT_MAX;
@@ -38,12 +39,13 @@ public:
             {
                 if(is_palin(i,j,s)==true)
                 {
-                    int cost=1+dp[j+1];
+                    int cost=1+front[j+1];
                     min_cost=min(min_cost,cost);
                 }
             }
-            dp[i]=min_cost;
+            curr[i]=min_cost;
+            front=curr;
         }
-        return dp[0]-1;
+        return front[0]-1;
     }
 };
