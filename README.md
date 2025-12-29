@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [3531-count-covered-buildings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3531-count-covered-buildings) |
 ## Divide and Conquer
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1170-shortest-common-supersequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1170-shortest-common-supersequence) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 ## Topological Sort
 |  |
 | ------- |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Ordered Set
 |  |
