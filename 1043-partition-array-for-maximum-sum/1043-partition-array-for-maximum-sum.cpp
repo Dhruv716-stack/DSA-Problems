@@ -20,7 +20,7 @@ public:
     }*/
     int maxSumAfterPartitioning(vector<int>& arr, int k) {
         int n=arr.size();
-        vector<ll> dp(n+1,0);
+        vector<ll> front(n+1,0),curr(n+1,0);
         ll max_ans=LLONG_MIN;
         for(int i=n-1;i>=0;i--)
         {
@@ -30,11 +30,12 @@ public:
             {
                 len++;
                 maxi=max(maxi,arr[j]);
-                ll sum=len*maxi*1LL+dp[j+1];
+                ll sum=len*maxi*1LL+front[j+1];
                 max_ans=max(max_ans,sum);
             }
-            dp[i]=max_ans;
+            curr[i]=max_ans;
+            front=curr;
         }
-        return dp[0];
+        return front[0];
     }
 };
