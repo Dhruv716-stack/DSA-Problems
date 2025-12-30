@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1043-partition-array-for-maximum-sum) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [3531-count-covered-buildings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3531-count-covered-buildings) |
 ## Divide and Conquer
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 ## Memoization
 |  |
