@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1043-partition-array-for-maximum-sum) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1559-cherry-pickup-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Recursion
 |  |
