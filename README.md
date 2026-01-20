@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3531-count-covered-buildings) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Hash Table
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
