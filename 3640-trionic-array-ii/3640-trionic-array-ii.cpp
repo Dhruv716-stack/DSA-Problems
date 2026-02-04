@@ -1,7 +1,7 @@
 class Solution {
 public:
     typedef long long ll;
-    ll solve(int i, int t,vector<int>&nums,vector<vector<ll>>&dp)
+    /*ll solve(int i, int t,vector<int>&nums,vector<vector<ll>>&dp)
     {
         int n=nums.size();
         if(i>=n)
@@ -64,7 +64,7 @@ public:
             }
         }
         return dp[i][t]=max(skip,take);
-    }
+    }*/
     long long maxSumTrionic(vector<int>& nums) {
         int n=nums.size();
         vector<vector<ll>> dp(n+1,vector<ll>(4,LLONG_MIN/2));
