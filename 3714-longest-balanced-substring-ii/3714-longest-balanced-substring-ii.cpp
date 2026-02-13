@@ -25,7 +25,7 @@ public:
         int n=s.size();
         int cnt1=0,cnt2=0;
         unordered_map<int,int> mp;
-        mp[0]=-1;
+        //mp[0]=-1;
         int ml=0;
         for(int i=0;i<n;i++)
         {
@@ -54,7 +54,7 @@ public:
     {
         int n=s.size();
         map<pair<int,int>,int> mp;
-        mp[{0,0}]=-1;
+        //mp[{0,0}]=-1;
         int ml=0;
         int cnta=0,cntb=0,cntc=0;
         for(int i=0;i<n;i++)
