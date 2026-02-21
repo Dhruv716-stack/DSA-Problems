@@ -14,15 +14,17 @@ public:
         int n=nums.size();
         if(n == 0) return 0;
         if(n == 1) return nums[0];
-        vector<long long> dp(n,0);
-        dp[0]=nums[0];
+        //vector<long long> dp(n,0);
+        int prev2=0,prev1=nums[0],curr=0;
         for(int i=1;i<n;i++)
         {
-            long long not_take=dp[i-1];
+            long long not_take=prev1;
             long long take=1LL*nums[i];
-            if(i>1) take+=dp[i-2];
-            dp[i]=max(take,not_take);
+            if(i>1) take+=prev2;
+            curr=max(take,not_take);
+            prev2=prev1;
+            prev1=curr;
         }
-        return dp[n-1];
+        return prev1;
     }
 };
