@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1922-count-good-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1922-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
