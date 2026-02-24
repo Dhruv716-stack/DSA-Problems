@@ -1,25 +1,25 @@
 class Solution {
 public:
-    int solve(int m,int n,int r,int c,vector<vector<int>>&dp,vector<vector<int>>&grid)
+    int solve(int i, int j, vector<vector<int>>&grid,vector<vector<int>>&dp)
     {
-        if(grid[m-1][n-1]==1) return 0;
-        if(r==0 &&c==0 && grid[r][c]!=1) return 1;
-        if(dp[r][c]!=-1) return dp[r][c];
-        int l=0,ri=0;
-        if(r>=0 && r<m && c>=0 && c<n)
+        if(i==0 && j==0)
         {
-
-            if(r-1>=0 && grid[r-1][c]!=1) l=solve(m,n,r-1,c,dp,grid);
-            if(c-1>=0 && grid[r][c-1]!=1) ri=solve(m,n,r,c-1,dp,grid);
+            if(grid[i][j]==1) return 0;
+            return 1;
         }
-
-        return dp[r][c]=l+ri;
+        if(dp[i][j]!=-1) return dp[i][j];
+        int p1=0,p2=0;
+        if(i-1>=0 && grid[i-1][j]==0) p1=solve(i-1,j,grid,dp);
+        if(j-1>=0 && grid[i][j-1]==0) p2=solve(i,j-1,grid,dp);\
+        return dp[i][j]=p1+p2;
     }
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
+        if(obstacleGrid[0][0]==1) return 0;
         int m=obstacleGrid.size();
         int n=obstacleGrid[0].size();
+        if(obstacleGrid[m-1][n-1]==1) return 0;
         vector<vector<int>> dp(m,vector<int>(n,-1));
-        int ans=solve(m,n,m-1,n-1,dp,obstacleGrid);
-        return ans;
+        return solve(m-1,n-1,obstacleGrid,dp);
+        
     }
 };
