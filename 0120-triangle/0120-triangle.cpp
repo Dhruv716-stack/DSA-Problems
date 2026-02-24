@@ -1,36 +1,24 @@
 class Solution {
 public:
-    int solve(vector<vector<int>>&tri,int i,int j,vector<vector<int>>&dp)
+    int solve(int i, int j, vector<vector<int>>&tri,vector<vector<long long>>&dp)
     {
-        int m=tri.size();
-        if(i==m-1) return tri[i][j];
+        int n=tri.size();
+        if(i==n-1)
+        {
+            if(j<=i) return tri[i][j];
+            return INT_MAX;
+        }
+        if(j>i) return INT_MAX;
         if(dp[i][j]!=INT_MAX) return dp[i][j];
-        int d=INT_MAX,dg=INT_MAX;
-        d=tri[i][j]+solve(tri,i+1,j,dp);
-        dg=tri[i][j]+solve(tri,i+1,j+1,dp);
-        return dp[i][j]=min(d,dg);
+        long long p1=INT_MAX,p2=INT_MAX;
+        p1=1LL*tri[i][j]+solve(i+1,j,tri,dp);
+        p2=1LL*tri[i][j]+solve(i+1,j+1,tri,dp);
+        return dp[i][j]=min(p1,p2);
     }
-
     int minimumTotal(vector<vector<int>>& triangle) {
-        int m=triangle.size();
-        int n=triangle[m-1].size();
-        vector<int> front(n,0);
-        vector<int> curr(n,0);
-        for(int i=0;i<n;i++)
-        {
-            front[i]=triangle[m-1][i];
-        }
-        for(int i=m-2;i>=0;i--)
-        {
-            for(int j=i;j>=0;j--)
-            {
-                int d=triangle[i][j]+front[j];
-                int dg=triangle[i][j]+front[j+1];
-                curr[j]=min(d,dg);
-            }
-            front=curr;
-        }
-        return front[0];
+        int n=triangle.size();
+        vector<vector<long long>> dp(n,vector<long long>(n,INT_MAX));
+        return solve(0,0,triangle,dp);
 
     }
 };
