@@ -1,33 +1,17 @@
 class Solution {
 public:
-
-    void add_one(string &s)
-    {
-        int i=s.length()-1;
-        while(i>=0 && s[i]=='1')
-        {
-            s[i]='0';
-            i--;
-        }
-        if(i<0) s="1"+s;
-        else s[i]='1';
-        return ;
-    }
     int numSteps(string s) {
-        int op=0;
-        while(s.length()>1)
+        int n=s.size();
+        int carry=0,op=0;
+        for(int i=n-1;i>=1;i--)
         {
-            int n=s.length();
-            if(s[n-1]=='0')
+            if(((s[i]-'0')+carry)%2==1)
             {
-                s.pop_back();
+                op+=2;
+                carry=1;
             }
-            else
-            {
-                add_one(s);
-            }
-            op++;
+            else op++;
         }
-        return op;
+        return op+carry;
     }
 };
