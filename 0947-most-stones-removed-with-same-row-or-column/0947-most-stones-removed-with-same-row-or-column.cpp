@@ -39,39 +39,33 @@ class Solution {
 public:
     int removeStones(vector<vector<int>>& stones) {
         int n=stones.size();
-        vector<vector<int>> adj(n+1);
-        for(int i=0;i<n;i++)
+        int mx_row=0,mx_col=0;
+        for(auto &it:stones)
         {
-            for(int j=i+1;j<n;j++)
-            {
-                if((stones[i][0]==stones[j][0]) || (stones[i][1]==stones[j][1]))
-                {
-                    adj[i+1].push_back(j+1);
-                }
-            }
+            mx_row=max(mx_row,it[0]);
+            mx_col=max(mx_col,it[1]);
         }
 
-        vector<pair<int,int>> edges;
-        for(int i=1;i<=n;i++)
+        Disjointset ds(mx_row+mx_col+1);
+        unordered_map<int,int> mp;
+        for(auto &it:stones)
         {
-            for(auto &it:adj[i])
-            {
-                edges.push_back({i,it});
-            }
+            int r=it[0];
+            int c=it[1]+mx_row+1;
+            ds.union_by_size(r,c);
+            mp[r]=1;
+            mp[c]=1;
         }
 
-        Disjointset ds(n);
         int cnt=0;
-        for(auto &it:edges)
+        for(auto &it:mp)
         {
-            int u=it.first;
-            int v=it.second;
-            if(ds.findUparent(u)!=ds.findUparent(v))
+            if(ds.findUparent(it.first)==it.first)
             {
                 cnt++;
-                ds.union_by_size(u,v);
             }
         }
-        return cnt;
+
+        return n-cnt;
     }
 };
