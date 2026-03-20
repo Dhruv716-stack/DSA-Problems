@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -489,4 +491,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 <!---LeetCode Topics End-->
