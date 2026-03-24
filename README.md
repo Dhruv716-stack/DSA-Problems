@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2906-construct-product-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2906-construct-product-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1854-maximum-population-year](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1854-maximum-population-year) |
+| [2906-construct-product-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3714-longest-balanced-substring-ii) |
