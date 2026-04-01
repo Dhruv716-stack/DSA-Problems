@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3714-longest-balanced-substring-ii) |
 ## Depth-First Search
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0055-jump-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union Find
 |  |
 | ------- |
@@ -549,4 +551,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1192-critical-connections-in-a-network) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
