@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Greedy
 |  |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3531-count-covered-buildings) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3634-minimum-removals-to-balance-array) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Sliding Window
 |  |
 | ------- |
