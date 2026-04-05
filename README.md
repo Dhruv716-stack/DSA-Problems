@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0516-longest-palindromic-subsequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0657-robot-return-to-origin](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0761-special-binary-string) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
