@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0001-two-sum) |
+| [0051-n-queens](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0064-minimum-path-sum) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0051-n-queens) |
 | [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
