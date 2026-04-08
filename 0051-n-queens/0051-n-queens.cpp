@@ -1,31 +1,7 @@
 class Solution {
 public:
     vector<vector<string>> res;
-
-    bool isvalid(vector<string>&board, int row, int col)
-    {
-        int n=board.size();
-        //Check Upward
-        for(int i=row-1;i>=0;i--)
-        {
-            if(board[i][col]=='Q') return false;
-        }
-
-        //Check Upward left
-        for(int i=row-1,j=col-1;i>=0 && j>=0;i--,j--)
-        {
-            if(board[i][j]=='Q') return false;
-        }
-
-        //Check upward right
-        for(int i=row-1,j=col+1;i>=0 && j<n;i--,j++)
-        {
-            if(board[i][j]=='Q') return false;
-        }
-
-        return true;
-    }
-
+    unordered_set<int> columns,diag,antidiag;
     void solve(vector<string>&board,int row)
     {
         int n=board.size();
@@ -37,12 +13,20 @@ public:
 
         for(int col=0;col<n;col++)
         {
-            if(isvalid(board,row,col)==true)
-            {
-                board[row][col]='Q';
-                solve(board,row+1);
-                board[row][col]='.';
-            }
+            int diag_const=row+col;
+            int antidiag_const=row-col;
+            if(columns.find(col)!=columns.end() || diag.find(diag_const)!=diag.end() || antidiag.find(antidiag_const)!=antidiag.end()) continue;
+            columns.insert(col);
+            diag.insert(diag_const);
+            antidiag.insert(antidiag_const);
+
+            board[row][col]='Q';
+            solve(board,row+1);
+
+            columns.erase(col);
+            diag.erase(diag_const);
+            antidiag.erase(antidiag_const);
+            board[row][col]='.';
         }
         return;
     }
