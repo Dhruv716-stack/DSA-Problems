@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Hash Table
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Greedy
 |  |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
