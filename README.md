@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Hash Table
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Divide and Conquer
 |  |
