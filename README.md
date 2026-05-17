@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1306-jump-game-iii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1192-critical-connections-in-a-network](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1192-critical-connections-in-a-network) |
+| [1306-jump-game-iii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2092-find-all-people-with-secret) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1306-jump-game-iii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2092-find-all-people-with-secret) |
