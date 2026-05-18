@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1306-jump-game-iii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1345-jump-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1345-jump-game-iv) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1306-jump-game-iii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1345-jump-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1345-jump-game-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2092-find-all-people-with-secret) |
 ## Design
