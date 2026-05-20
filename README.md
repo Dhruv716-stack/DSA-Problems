@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1345-jump-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1345-jump-game-iv) |
 | [2540-minimum-common-value](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
