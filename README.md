@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2540-minimum-common-value) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Union Find
 |  |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2092-find-all-people-with-secret](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2092-find-all-people-with-secret) |
+| [2126-destroying-asteroids](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2751-robot-collisions](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
