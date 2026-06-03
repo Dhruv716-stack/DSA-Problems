@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0169-majority-element) |
 | [0368-largest-divisible-subset](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0368-largest-divisible-subset) |
