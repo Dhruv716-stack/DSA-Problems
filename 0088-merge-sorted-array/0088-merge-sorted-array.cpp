@@ -1,20 +1,41 @@
 class Solution {
+private:
+void greaterswap(vector<int>&nums1, int ind1, vector<int>&nums2,int ind2)
+{
+    if(nums1[ind1]>nums2[ind2]) swap(nums1[ind1],nums2[ind2]);
+    return;
+}
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        int i=m-1;
-        int j=0;
-        while(i>=0 && j<n)
+        int gap=(n+m)/2+ (n+m)%2;
+        while(gap>0)
         {
-            if(nums1[i]>nums2[j])
+            int l=0;
+            int r=l+gap;
+            while(r<n+m)
             {
-                swap(nums1[i],nums2[j]);
-                i--;
-                j++;
+                //arr1 and arr2
+                if(l<m && r>=m)
+                {
+                    greaterswap(nums1,l,nums2,r-m);
+                }
+
+                //arr2 and arr2
+                else if(l>=m && r>=m)
+                {
+                    greaterswap(nums2,l-m,nums2,r-m);
+                }
+
+                //arr1 and arr2
+                else{
+                    greaterswap(nums1,l,nums1,r);
+                }
+                l++;
+                r++;
             }
-            else break;
+            if(gap==1) break;
+            gap=gap/2 +gap%2;
         }
-        sort(nums1.begin(),nums1.begin()+m);
-        sort(nums2.begin(),nums2.end());
 
         for(int i=m;i<m+n;i++)
         {
