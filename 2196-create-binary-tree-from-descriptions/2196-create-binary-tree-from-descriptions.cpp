@@ -13,11 +13,13 @@ class Solution {
 public:
     TreeNode* createBinaryTree(vector<vector<int>>& desc) {
         unordered_map<int,TreeNode*> mp;
+        unordered_set<int> st;
         for(auto &it:desc)
         {
             int p=it[0];
             int c=it[1];
             int isLeft=it[2];
+            st.insert(c);
             if(mp.find(p)==mp.end())
             {
                 TreeNode* node=new TreeNode(p);
@@ -47,16 +49,9 @@ public:
         int root=-1;
         for(auto &it:mp)
         {
-            bool flag=false;
-            int cnt=0;
-            int p=it.first;
-            for(int i=0;i<desc.size();i++)
+            if(st.find(it.first)==st.end())
             {
-                if(p!=desc[i][1]) cnt++;
-            }
-            if(cnt==desc.size())
-            {
-                root=p;
+                root=it.first;
                 break;
             }
         }
