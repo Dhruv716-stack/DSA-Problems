@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3356-zero-array-transformation-ii) |
@@ -633,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2069-walking-robot-simulation-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2751-robot-collisions](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3379-transformed-array) |
