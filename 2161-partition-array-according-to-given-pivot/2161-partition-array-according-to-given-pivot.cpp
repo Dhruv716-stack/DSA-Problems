@@ -2,17 +2,17 @@ class Solution {
 public:
     vector<int> pivotArray(vector<int>& nums, int pivot) {
         int n=nums.size();
-        set<pair<int,int>> st1,st2,st3;
+        vector<pair<int,int>> st1,st2,st3;
         for(int i=0;i<n;i++)
         {
             if(nums[i]<pivot){
-                st1.insert({i,nums[i]});
+                st1.push_back({i,nums[i]});
             }
             else if(nums[i]==pivot){
-                st2.insert({i,nums[i]});
+                st2.push_back({i,nums[i]});
             }
             else{
-                st3.insert({i,nums[i]});
+                st3.push_back({i,nums[i]});
             }
         }
 
