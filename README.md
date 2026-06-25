@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0733-flood-fill) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
