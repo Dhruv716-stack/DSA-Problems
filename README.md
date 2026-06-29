@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
