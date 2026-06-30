@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int numberOfSubstrings(string s) {
+        int n=s.size();
+        int l=0,r=0;
+        long long ans=0;
+        unordered_map<char,int> mp;
+        while(l<n && r<n){
+            mp[s[r]]++;
+            while(mp['a']>0 && mp['b']>0 && mp['c']>0){
+                ans+=(n-r);
+                mp[s[l]]--;
+                l++;
+            }
+            r++;
+        }
+        return ans;
+    }
+};
