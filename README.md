@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2751-robot-collisions) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1345-jump-game-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [2092-find-all-people-with-secret](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2092-find-all-people-with-secret) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3356-zero-array-transformation-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
 | [1753-path-with-minimum-effort](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1753-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -715,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3873-maximum-points-activated-with-one-addition](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3873-maximum-points-activated-with-one-addition) |
 ## Biconnected Component
 |  |
