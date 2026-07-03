@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3634-minimum-removals-to-balance-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3356-zero-array-transformation-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
@@ -544,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Math
 |  |
@@ -692,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Counting
 |  |
