@@ -5,18 +5,18 @@ public:
         int n=grid[0].size();
 
         vector<vector<int>> dis(m,vector<int>(n,100));
-        priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>,greater<pair<int,pair<int,int>>>> pq;
+        deque<pair<int,pair<int,int>>> dq;
 
-        pq.push({grid[0][0],{0,0}});
-        dis[0][0]=grid[0][0];
+        if(grid[0][0]==1) dq.push_back({grid[0][0],{0,0}});
+        else dq.push_front({grid[0][0],{0,0}});
 
         vector<int> del_r={0,1,0,-1};
         vector<int> del_c={1,0,-1,0};
 
-        while(!pq.empty()){
-            auto [d,coor]=pq.top();
+        while(!dq.empty()){
+            auto [d,coor]=dq.front();
             auto [r,c]=coor;
-            pq.pop();
+            dq.pop_front();
 
             for(int i=0;i<4;i++){
                 int nr=r+del_r[i];
@@ -25,7 +25,8 @@ public:
                 if(nr>=0 && nr<m && nc>=0 && nc<n){
                     if(grid[nr][nc]+d<dis[nr][nc]){
                         dis[nr][nc]=d+grid[nr][nc];
-                        pq.push({dis[nr][nc],{nr,nc}});
+                        if(grid[nr][nc]==1) dq.push_back({dis[nr][nc],{nr,nc}});
+                        else dq.push_front({dis[nr][nc],{nr,nc}});
                     }
                 }
             }
