@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2540-minimum-common-value) |
 | [3356-zero-array-transformation-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3356-zero-array-transformation-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3689-maximum-total-subarray-value-i) |
@@ -609,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3877-minimum-removals-to-achieve-target-xor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3877-minimum-removals-to-achieve-target-xor) |
 ## Ordered Set
 |  |
@@ -647,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3531-count-covered-buildings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3531-count-covered-buildings) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3634-minimum-removals-to-balance-array) |
@@ -721,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Counting
