@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0146-lru-cache) |
+| [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0460-lfu-cache) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0696-count-binary-substrings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0744-network-delay-time](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0169-majority-element) |
+| [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0761-special-binary-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0761-special-binary-string) |
@@ -815,4 +819,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
