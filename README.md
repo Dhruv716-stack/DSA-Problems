@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0368-largest-divisible-subset) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [1922-count-good-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1922-count-good-numbers) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0761-special-binary-string) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
