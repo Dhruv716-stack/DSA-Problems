@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0542-01-matrix) |
+| [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0733-flood-fill) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0169-majority-element) |
 | [0460-lfu-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
@@ -690,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0368-largest-divisible-subset](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0761-special-binary-string) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
@@ -802,6 +807,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0169-majority-element) |
+| [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1854-maximum-population-year](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1854-maximum-population-year) |
 | [2833-furthest-point-from-origin](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2833-furthest-point-from-origin) |
