@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0827-making-a-large-island](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0827-making-a-large-island) |
 | [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0874-walking-robot-simulation) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0846-hand-of-straights](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2126-destroying-asteroids) |
@@ -698,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0761-special-binary-string) |
+| [0846-hand-of-straights](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0846-hand-of-straights) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1288-remove-covered-intervals) |
