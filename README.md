@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -872,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Data Stream
 |  |
