@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2540-minimum-common-value](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3356-zero-array-transformation-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3356-zero-array-transformation-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3620-network-recovery-pathways) |
@@ -519,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
