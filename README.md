@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1510-stone-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1559-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -646,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1922-count-good-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -901,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1510-stone-game-iv) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -913,4 +916,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
