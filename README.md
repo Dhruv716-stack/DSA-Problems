@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0696-count-binary-substrings) |
 | [0756-pyramid-transition-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0761-special-binary-string) |
+| [1078-occurrences-after-bigram](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1078-occurrences-after-bigram) |
 | [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1170-shortest-common-supersequence](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1189-maximum-number-of-balloons) |
