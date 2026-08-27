@@ -819,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0146-lru-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
