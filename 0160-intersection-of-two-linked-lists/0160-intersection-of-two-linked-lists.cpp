@@ -8,36 +8,16 @@
  */
 class Solution {
 public:
-    ListNode* collison(ListNode* t1, ListNode* t2, int d){
-        while(d>0){
-            t2=t2->next;
-            d--;
-        }
-
+    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
+        ListNode* t1=headA;
+        ListNode* t2=headB;
         while(t1!=t2){
             t1=t1->next;
             t2=t2->next;
+            if(t1==t2) return t1;
+            if(t1==NULL) t1=headB;
+            if(t2==NULL) t2=headA;
         }
-        return t1;
-    }
-    ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        int N1=0,N2=0;
-        ListNode* t1=headA;
-        ListNode* t2=headB;
-        while(t1){
-            N1++;
-            t1=t1->next;
-        }
-
-        while(t2){
-            N2++;
-            t2=t2->next;
-        }
-
-        if(N1>N2){
-            return collison(headB,headA,N1-N2);
-        }
-        else return collison(headA,headB,N2-N1);
         return t1;
     }
 };
