@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0169-majority-element) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0234-palindrome-linked-list) |
@@ -827,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0206-reverse-linked-list) |
@@ -1004,4 +1007,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
