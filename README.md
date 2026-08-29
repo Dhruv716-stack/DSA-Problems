@@ -810,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0486-predict-the-winner) |
 | [1106-parsing-a-boolean-expression](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1106-parsing-a-boolean-expression) |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
