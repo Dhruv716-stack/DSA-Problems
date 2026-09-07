@@ -1,21 +1,32 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>> &image,int sr,int sc,int color,int &oc,int &m,int &n)
-    {
-        if(oc==color) return;
-        if(image[sr][sc]!=oc) return;
-        image[sr][sc]=color;
-        if(sr+1<m) dfs(image,sr+1,sc,color,oc,m,n);
-        if(sr-1>=0) dfs(image,sr-1,sc,color,oc,m,n);
-        if(sc+1<n) dfs(image,sr,sc+1,color,oc,m,n);
-        if(sc-1>=0) dfs(image,sr,sc-1,color,oc,m,n);
-        return;
-    }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int oc=image[sr][sc];
         int m=image.size();
         int n=image[0].size();
-        dfs(image,sr,sc,color,oc,m,n);
+        vector<vector<int>> vis(m,vector<int>(n,0));
+        queue<pair<int,int>> q;
+        int c=image[sr][sc];
+        q.push({sr,sc});
+        vis[sr][sc]=1;
+        image[sr][sc]=color;
+
+        vector<int> del_x={0,1,0,-1};
+        vector<int> del_y={1,0,-1,0};
+
+        while(!q.empty()){
+            auto [x,y]=q.front();
+            q.pop();
+            for(int i=0;i<4;i++){
+                int nx=x+del_x[i];
+                int ny=y+del_y[i];
+                if(nx>=0 && nx<m && ny>=0 && ny<n && vis[nx][ny]==0 && image[nx][ny]==c){
+                    q.push({nx,ny});
+                    vis[nx][ny]=1;
+                    image[nx][ny]=color;
+                }
+            }
+        }
+
         return image;
     }
 };
