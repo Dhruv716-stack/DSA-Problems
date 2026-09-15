@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0063-unique-paths-ii) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0073-set-matrix-zeroes) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0874-walking-robot-simulation) |
 | [1094-car-pooling](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1094-car-pooling) |
