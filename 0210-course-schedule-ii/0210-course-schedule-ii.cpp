@@ -1,45 +1,33 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        int V=numCourses;
-        vector<vector<int>> adj(V);
-        int cnt=0;
-        for(auto it:prerequisites)
-        {
+        int n=numCourses;
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n,0);
+        for(auto &it:prerequisites){
             int u=it[0];
             int v=it[1];
             adj[v].push_back(u);
+            indegree[u]++;
         }
-        vector<int> indegree(V);
-        for(int i=0;i<V;i++)
-        {
-            for(auto it:adj[i])
-            {
-                indegree[it]++;
-            }
-        }
+
         queue<int> q;
-        for(int i=0;i<V;i++)
-        {
-            if(indegree[i]==0) q.push(i);
-        }
-        vector<int> v;
-        while(!q.empty())
-        {
+        vector<int> ans;
+        for(int i=0;i<n;i++) if(indegree[i]==0) q.push(i);
+
+        while(!q.empty()){
             int node=q.front();
             q.pop();
-            v.push_back(node);
-            cnt++;
-            for(auto it:adj[node])
-            {
+
+            ans.push_back(node);
+            for(auto &it:adj[node]){
                 indegree[it]--;
-                if(indegree[it]==0)
-                {
-                    q.push(it);
-                }
+                if(indegree[it]==0) q.push(it);
             }
         }
-        if(cnt==V) return v;
-        return {};
+
+        bool flag=false;
+        for(int i=0;i<n;i++) if(indegree[i]>0) {return {};}
+        return ans;
     }
 };
