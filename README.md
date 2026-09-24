@@ -977,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1068-product-sales-analysis-i) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Dhruv716-stack/DSA-Problems/tree/master/1193-monthly-transactions-i) |
